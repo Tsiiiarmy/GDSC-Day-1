@@ -1,4 +1,4 @@
-# Task 1 from Gdsc react class. push some file
+# Task 1 from Gdsc react class.
 
 
 - 👋 Hi, I’m @Tsiiiarmy. My full name is Tsion Getachew 
